@@ -1,0 +1,44 @@
+body {
+
+
+text-align: center;
+
+background: linear-gradient(to right, rgba(240,255,210,.5), rgba(255,230,255,1)), url("fondo.jpg");
+
+color:green;
+
+background-size: 100vw 100vh;
+
+}
+
+p{
+
+font-size:14px;
+
+color:blue;
+
+text-align:right;
+
+
+}
+
+
+h1{
+
+color:red;
+
+text-align:center;
+
+text-transform: uppercase;
+}
+
+div{
+
+border-style: double;
+border-color: blue;
+border-width: 30px;
+border-height: 20px;
+}
+
+
+
